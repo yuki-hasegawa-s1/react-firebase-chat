@@ -197,7 +197,6 @@ class Register extends React.Component {
           </Form>
           {errors.length > 0 && (
             <Message error>
-              <h3></h3>
               {this.displayErrors(errors)}
             </Message>
           )}

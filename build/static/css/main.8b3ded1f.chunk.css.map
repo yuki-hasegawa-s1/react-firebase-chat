@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,eAGE,YAAa,CACb,eAAgB,CAChB,WACF","file":"main.8b3ded1f.chunk.css","sourcesContent":["html,\nbody,\n.app {\n  height: 100vh;\n  background: #eee;\n  padding: 1em;\n}\n"]}
